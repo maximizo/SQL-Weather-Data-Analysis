@@ -4,10 +4,10 @@ In this project, I will be doing a climate analysis on Honolulu, HI in order to 
 
 # Features & Libraries:
 
-Python
-SQLAlchemy (ORM queries)
-Pandas
-Matplotlib
+*Python
+*SQLAlchemy (ORM queries)
+*Pandas
+*Matplotlib
 
 ## My Process 
 
