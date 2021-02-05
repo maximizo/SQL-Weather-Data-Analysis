@@ -9,7 +9,7 @@ SQLAlchemy (ORM queries)
 Pandas
 Matplotlib
 
-## Process 
+## My Process 
 
 * Design a query to retrieve the last 12 months of precipitation data.
 
