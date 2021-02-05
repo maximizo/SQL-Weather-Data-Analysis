@@ -28,7 +28,3 @@ Matplotlib
 * Design a query to find the most active stations.
 
 * Design a query to retrieve the last 12 months of temperature observation data (TOBS).
-
-## Climate App
-
-* Design a Flask API based on the queries that I have just developed.
