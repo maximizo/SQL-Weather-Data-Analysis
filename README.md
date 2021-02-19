@@ -1,6 +1,6 @@
-# Description
+# Analyzing Weather with SQL ORM Queries 
 
-In this project, I will be doing a climate analysis on Honolulu, HI in order to analyze the weather during a desired vacation time in the past. 
+I will be doing a climate analysis on Honolulu, HI in order to analyze the weather during a desired vacation time in the past. 
 
 # Features & Libraries:
 
